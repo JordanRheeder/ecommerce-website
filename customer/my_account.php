@@ -91,7 +91,7 @@
                                     
                                     echo "
                                     <h2 style='padding:20px;'>Welcome: $c_name; </h2>
-                                    <b>You can see your orders by clicking this <a href='my_account.php?my_orders'>link</a></b>";
+                                    <b>You can see your orders by clicking this <a href='my_account.php'>link</a></b>";
                         }
                     }
                 }
@@ -115,7 +115,7 @@
 
         <!--footer starts-->
         <div id="footer">
-            <h2 style="text-align:center; padding-top:30px;">&copy; 2019 by jrheeder@student.wethinkcode.co.za</h2>
+            <h2 style="text-align:center; padding-top:30px;">&copy; 2019 by jrheeder, rengelbr</h2>
         </div>
         <!--footer ends-->
     </div>

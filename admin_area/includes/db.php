@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect('localhost', 'root', 'qwerqwer', 'ecommerce');
+    $con = mysqli_connect('localhost:8080', 'root', 'qwerqwer', 'ecommerce');
 
     if (mysqli_connect_errno())
     {

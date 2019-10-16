@@ -22,6 +22,7 @@
                     <li><a href="customer/my_account.php">My Account</a></li>
                     <li><a href="cart.php">Shopping Cart</a></li>
                     <li><a href="https://www.youtube.com/watch?v=SQoA_wjmE9w">Contact Us</a></li>
+                    <li><a href="admin_area/insert_product.php">Insert product</a></li>
             </ul>
             
             <div id="form">
@@ -49,9 +50,6 @@
             <?php 
                 cart();
             ?>
-            <div id="shopping_cart">
-                <span style="float:right; font-size:18px; padding:5px; line-height:40px;">Welcome Guest! <b style="color:teal">Shopping Cart - </b> Total Items: <?php total_items(); ?> Total Price: $<?php total_price() ?>.00 <a href="cart.php" style="color:teal">Go to Cart</a></span>
-            </div>
 
                 <div id="products_box">
                     <?php
@@ -70,7 +68,7 @@
 
         <!--footer starts-->
         <div id="footer">
-            <h2 style="text-align:center; padding-top:30px;">&copy; 2019 by jrheeder@student.wethinkcode.co.za</h2>
+            <h2 style="text-align:center; padding-top:30px;">&copy; 2019 by jrheeder, rengelbr</h2>
         </div>
         <!--footer ends-->
     </div>

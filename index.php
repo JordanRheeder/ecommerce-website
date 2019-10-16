@@ -20,10 +20,10 @@ ini_set("display_errors", true);
         <div class="menubar">
             <ul id="menu">
                     <li><a href="index.php">Home</a></li>
-
                     <li><a href="customer/my_account.php">My Account</a></li>
                     <li><a href="cart.php">Shopping Cart</a></li>
                     <li><a href="https://www.youtube.com/watch?v=y6120QOlsfU">Contact Us</a></li>
+                    <li><a href="admin_area/insert_product.php">Insert Stuff</a></li>
             </ul>
             
             <div id="form">
@@ -88,7 +88,7 @@ ini_set("display_errors", true);
 
         <!--footer starts-->
         <div id="footer">
-            <h2 style="text-align:center; padding-top:30px;">&copy; 2019 by jrheeder@student.wethinkcode.co.za</h2>
+            <h2 style="text-align:center; padding-top:30px;">&copy; 2019 by jrheeder, rengelbr</h2>
         </div>
         <!--footer ends-->
     </div>

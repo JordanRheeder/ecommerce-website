@@ -89,7 +89,7 @@
 
         <!--footer starts-->
         <div id="footer">
-            <h2 style="text-align:center; padding-top:30px;">&copy; 2019 by jrheeder@student.wethinkcode.co.za</h2>
+            <h2 style="text-align:center; padding-top:30px;">&copy; 2019 by jrheeder, rengelbr</h2>
         </div>
         <!--footer ends-->
     </div>
